@@ -15,7 +15,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ## Live Site
 
-Check out the site: https://obscure-basin-04139.herokuapp.com/
+Check out the site: 
 
 
 ## Business Context
